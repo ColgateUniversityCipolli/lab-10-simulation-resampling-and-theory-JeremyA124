@@ -63,8 +63,8 @@ As seen in Figure \hyperref[fig2]{2}, when we double the sample size under the s
 \begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{sample2008.png}
-  \caption{}
-  \label{Distribution of 10000 Poll Simulations with Sample Size $n = 2008$, and Probability $p = 0.39$}
+  \caption{Distribution of 10000 Poll Simulations with Sample Size $n = 2008$, and Probability $p = 0.39$}
+  \label{fig2}
 \end{figure}
 
 As we can see with simulations, by increasing the sample size, we are able to obtain a much narrower range with a lower margin of error for given data. This essentially illustrates the power of the sample size effect!
